@@ -1,0 +1,14 @@
+C:\Users\74267\source\repos\TestFramework\bin\Debug\net8.0\TestFramework.exe
+C:\Users\74267\source\repos\TestFramework\bin\Debug\net8.0\TestFramework.deps.json
+C:\Users\74267\source\repos\TestFramework\bin\Debug\net8.0\TestFramework.runtimeconfig.json
+C:\Users\74267\source\repos\TestFramework\bin\Debug\net8.0\TestFramework.dll
+C:\Users\74267\source\repos\TestFramework\bin\Debug\net8.0\TestFramework.pdb
+C:\Users\74267\source\repos\TestFramework\obj\Debug\net8.0\TestFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\74267\source\repos\TestFramework\obj\Debug\net8.0\TestFramework.AssemblyInfoInputs.cache
+C:\Users\74267\source\repos\TestFramework\obj\Debug\net8.0\TestFramework.AssemblyInfo.cs
+C:\Users\74267\source\repos\TestFramework\obj\Debug\net8.0\TestFramework.csproj.CoreCompileInputs.cache
+C:\Users\74267\source\repos\TestFramework\obj\Debug\net8.0\TestFramework.dll
+C:\Users\74267\source\repos\TestFramework\obj\Debug\net8.0\refint\TestFramework.dll
+C:\Users\74267\source\repos\TestFramework\obj\Debug\net8.0\TestFramework.pdb
+C:\Users\74267\source\repos\TestFramework\obj\Debug\net8.0\TestFramework.genruntimeconfig.cache
+C:\Users\74267\source\repos\TestFramework\obj\Debug\net8.0\ref\TestFramework.dll
